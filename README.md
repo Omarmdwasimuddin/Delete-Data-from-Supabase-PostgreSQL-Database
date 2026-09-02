@@ -1,1 +1,1 @@
-# Delete-Data-from-Supabase-PostgreSQL-Database
+## Delete Data from Supabase PostgreSQL Database
